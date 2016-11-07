@@ -312,7 +312,7 @@ Data Management
 Feature: Add flag to only copy selected features
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The offline editing plugins is a default plugin that ships with QGIS and allows you to offline a remote dataset (e.g. from a database), edit it in the field, and then resynchonise it when you get back to your office. This extends the offline editing possibilities to only work on subset of large layers.
+The offline editing plugin is a default plugin that ships with QGIS and allows you to offline a remote dataset (e.g. from a database), edit it in the field, and then resynchronise it when you get back to your office. This extends the offline editing possibilities to only work on subset of large layers.
 
 |image47|
 
