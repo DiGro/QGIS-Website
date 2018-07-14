@@ -71,9 +71,9 @@ The Simplify Features map tool has been renamed to "Simplify/Smooth Features", a
 
 |image2|
 
-This feature was funded by `North Road <http://north-road.com>`__
+This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
 
 Feature: Identify Tool with extra options
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
