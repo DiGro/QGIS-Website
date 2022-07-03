@@ -22,7 +22,7 @@ English
 .......
 
 The official Training Manual can be found here:
-http://docs.qgis.org/latest/en/docs/training_manual/index.html
+https://docs.qgis.org/latest/en/docs/training_manual/index.html
 
 Tutorial material, originally written in English and translated in over 15 languages. (Produced and maintained by Ujaval Gandhi)
 https://www.qgistutorials.com/
@@ -36,7 +36,7 @@ In-person training material, originally developed for the New York City Departme
 * `Intermediate GIS with QGIS and PostGIS <http://training.datapolitan.com/qgis-training/Intermediate_GIS/>`_
 * `Source code for training materials <https://github.com/Datapolitan-Training/qgis-training>`_
 
-Online course material for QGIS training developed and maintained by `Spatial Thoughts <http://spatialthoughts.com/>`_. Available for self-study and adaptation by other trainers:
+Online course material for QGIS training developed and maintained by `Spatial Thoughts <https://spatialthoughts.com/>`_. Available for self-study and adaptation by other trainers:
 
 * `Introduction to QGIS  <https://courses.spatialthoughts.com/introduction-to-qgis.html>`_
 * `Advanced QGIS  <https://courses.spatialthoughts.com/advanced-qgis.html>`_
